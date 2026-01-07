@@ -3,7 +3,6 @@
 # NeXtCS Final Project
 ### Name 0: NABIHA ISLAM
 ### Name 1: MAISHA ALAM
-### Name 2: MARCUS MARKOVA 
 ---
 
 ### Project Description
